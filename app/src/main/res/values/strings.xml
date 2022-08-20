@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Leonardo-Challenge</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open settings</string>
+    <string name="hike_updates">Hike updates</string>
+    <string name="hike_started">Hike started</string>
+    <string name="allow_precise_location">Allow precise location</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="message_permission">This feature requires location permission.</string>
+    <string name="message_permission_rationale">Getting your exact location is important for this app. Please grant us fine location. Thank you :D</string>
+    <string name="message_permission_revoked">Yay! Thanks for letting me access your approximate location. But you know what would be great? If you allow me to know where you exactly are. Thank you!</string>
+</resources>

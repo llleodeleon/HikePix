@@ -1,0 +1,8 @@
+[libraries]
+gradle-secrets = "com.google.android.libraries.mapsplatform.secrets-gradle-plugin:secrets-gradle-plugin:_"
+gradle-hilt = "com.google.dagger:hilt-android-gradle-plugin:_"
+flickr = "com.flickr4java:flickr4java:_"
+landscapist = "com.github.skydoves:landscapist-glide:_"
+accompanist-permissions = "com.google.accompanist:accompanist-permissions:_"
+[bundles]
+accompanist = [ "accompanist-permissions" ]
